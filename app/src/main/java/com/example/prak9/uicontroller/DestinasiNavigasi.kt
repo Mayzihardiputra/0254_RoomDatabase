@@ -1,5 +1,6 @@
 package com.example.prak9.uicontroller
 
+
 interface DestinasiNavigasi {
     /**
      * Nama unik untuk menentukan jalur untuk composable
